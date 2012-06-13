@@ -96,6 +96,21 @@
         "jQuery",
         "Tests Included"
       ]
+    },
+    {
+      "name": "AZVW Time Sheet",
+      "thumb": "azvw/thumb.png",
+      "desc": "Time sheet for recoring working hours and time allocation to projects.",
+      "url": "http://www.sekas.de/azvw",
+      "submitter": "Paul Bininda",
+      "submissionDate": "2012-06-13",
+      "tags": [
+        "Productivity",
+        "Animations",
+        "Local Storage",
+        "jQuery",
+        "Tests Included"
+      ]
     }
   ]
 }
