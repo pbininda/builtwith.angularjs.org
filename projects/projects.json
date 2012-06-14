@@ -98,12 +98,12 @@
       ]
     },
     {
-      "name": "AZVW Time Sheet",
-      "thumb": "azvw/thumb.png",
+      "name": "Project Time Recorder",
+      "thumb": "ptr/thumb.png",
       "desc": "Time sheet for recoring working hours and time allocation to projects.",
-      "url": "http://www.sekas.de/azvw",
+      "url": "http://www.sekas.de/ptr",
       "submitter": "Paul Bininda",
-      "submissionDate": "2012-06-13",
+      "submissionDate": "2012-06-14",
       "tags": [
         "Productivity",
         "Animations",
